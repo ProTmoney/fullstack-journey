@@ -1,0 +1,40 @@
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #00ffcc;
+}
+
+button {
+    background-color: #00ffcc;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00ccaa;
+}
+
+ul {
+    list-style: none;      /* removes bullets */
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    background-color: #222;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+#main {
+    width:600px;
+    margin: 50px auto;
+    text-align: center;
+    padding: auto;
+}
